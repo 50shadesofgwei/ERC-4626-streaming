@@ -11,7 +11,7 @@ Contained within this SDK are the following utilities:
 
 This SDK is released under the [MIT License](LICENSE).
 
-**Installation**
+# Installation
 
 To install the SDK, run the following command:
 
@@ -25,7 +25,7 @@ Or using Yarn:
 yarn add @aori-io/sdk
 ```
 
-**Initialization**
+# Initialization
 
 After installation, use the following import command interact with the SDK:
 
