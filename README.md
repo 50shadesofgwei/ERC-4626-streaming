@@ -12,6 +12,7 @@ Contained within this SDK are the following utilities:
 This SDK is released under the [MIT License](LICENSE).
 
 **Installation**
+
 To install the SDK, run the following command:
 
 ```bash
@@ -25,6 +26,7 @@ yarn add @aori-io/sdk
 ```
 
 **Initialization**
+
 After installation, use the following import command interact with the SDK:
 
 ```typescript
